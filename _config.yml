@@ -17,8 +17,8 @@ show_social: true
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "curriculum.pdf", title: "CV"}
-  - {file: "README.md", title: "About me"}
   - {title: "Blog", url: "https://github.com/DonatellaGen"}
+  - {title: "others", url:"https://github.com/DonatellaGen"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:donatella.genovese97@gmail.com"}
